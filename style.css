@@ -1,5 +1,4 @@
-* 
-{
+* {
     padding: 0%;
     border: 0%;
     margin: 0%;
@@ -7,29 +6,27 @@
 
 /* First Page */
 
-.home
-{
+.home {
     height: 10vh;
     width: 100%;
     background-color: aqua;
     border-bottom: 1px black solid;
 }
 
-.navbar
-{
+/* Nav Bar */
+
+.navbar {
     justify-content: space-between;
     display: flex;
     align-items: center;
 }
 
-.Logo1
-{
+.Logo1 {
     height: 9vh;
     width: 30%;
 }
 
-.link
-{
+.link {
     display: flex;
     text-decoration: none;
     justify-content: center;
@@ -38,14 +35,12 @@
     color: black;
 }
 
-body 
-{
+body {
     background-color: lightpink;
     width: 100%;
 }
 
-.First
-{
+.First {
     height: 80vh;
     justify-content: space-around;
     align-items: center;
@@ -55,17 +50,15 @@ body
     font-size: 35px;
 }
 
-.Firstpara 
-{
+.Firstpara {
     margin-top: 10px;
     font-size: 30px;
     margin-bottom: 24px;
 }
 
-.sb
-{
+.sb {
     color: white;
-    background-color: aqua;   
+    background-color: aqua;
     cursor: pointer;
     border: none;
     padding: 10px 25px 10px 25px;
@@ -75,16 +68,15 @@ body
 }
 
 /* Second Page */
-.about
-{
+
+.about {
     background-color: rgb(210, 209, 171);
     height: 100vh;
     width: 100%;
     font-size: 50px;
 }
 
-h2
-{
+h2 {
     justify-content: center;
     align-items: center;
     display: flex;
@@ -93,23 +85,20 @@ h2
     font-size: 60px;
 }
 
-.withimg
-{
+.withimg {
     justify-content: space-around;
     align-items: center;
     display: flex;
 }
 
-.secondpara
-{
+.secondpara {
     font-size: 25px;
     padding-top: 20px;
     margin-top: 10px;
     margin-left: 20px;
 }
 
-.hand
-{
+.hand {
     padding: 5px;
     margin-right: 20px;
     padding-top: 10px;
@@ -118,8 +107,7 @@ h2
 
 /* Third Page*/
 
-.Discord
-{
+.Discord {
     background-color: rgb(184, 224, 248);
     height: 100vh;
     width: 100%;
@@ -128,15 +116,13 @@ h2
     flex-direction: column;
 }
 
-.withdiscord
-{
+.withdiscord {
     justify-content: center;
     align-items: center;
     display: flex;
 }
 
-.thirdpara
-{
+.thirdpara {
 
     font-size: 25px;
     padding-top: 20px;
@@ -146,8 +132,7 @@ h2
 
 /* Four Page */
 
-.Contact
-{
+.Contact {
     background-color: rgb(199, 228, 237);
     height: 70vh;
     width: 100%;
@@ -157,8 +142,7 @@ h2
     justify-content: center;
 }
 
-.form 
-{
+.form {
     height: 500px;
     width: 600px;
     display: flex;
@@ -168,14 +152,12 @@ h2
     margin-bottom: 75px;
 }
 
-#cl 
-{
+#cl {
     margin-bottom: 50px;
     padding-bottom: 50px;
 }
 
-.subb
-{
+.subb {
     height: 25px;
     width: 100%;
     background-color: rgb(17, 179, 212);
@@ -186,20 +168,18 @@ h2
     font-size: 25px;
     margin-bottom: 25px;
     padding-bottom: 10px;
-    
 }
 
-.iemail
-{
+.iemail {
     width: 383px;
     height: 25px;
-    margin-bottom:10px ;
+    margin-bottom: 10px;
     padding-left: 5px;
 }
 
+/* Footer */
 
-.foot
-{
+.foot {
     height: 30vh;
     justify-content: center;
     display: flex;
@@ -207,19 +187,16 @@ h2
     background: aqua;
 }
 
-.footlogo
-{
+.footlogo {
     justify-content: center;
     display: flex;
     align-items: center;
     margin-bottom: 15px;
 }
 
-.fp 
-{
+.fp {
     justify-content: center;
     align-items: center;
     display: flex;
     padding-top: 10px;
-    
 }
