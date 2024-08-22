@@ -1,0 +1,225 @@
+* 
+{
+    padding: 0%;
+    border: 0%;
+    margin: 0%;
+}
+
+/* First Page */
+
+.home
+{
+    height: 10vh;
+    width: 100%;
+    background-color: aqua;
+    border-bottom: 1px black solid;
+}
+
+.navbar
+{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+
+.Logo1
+{
+    height: 9vh;
+    width: 30%;
+}
+
+.link
+{
+    display: flex;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
+    color: black;
+}
+
+body 
+{
+    background-color: lightpink;
+    width: 100%;
+}
+
+.First
+{
+    height: 80vh;
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    margin-top: 60px;
+    padding-left: 5px;
+    font-size: 35px;
+}
+
+.Firstpara 
+{
+    margin-top: 10px;
+    font-size: 30px;
+    margin-bottom: 24px;
+}
+
+.sb
+{
+    color: white;
+    background-color: aqua;   
+    cursor: pointer;
+    border: none;
+    padding: 10px 25px 10px 25px;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* Second Page */
+.about
+{
+    background-color: rgb(210, 209, 171);
+    height: 100vh;
+    width: 100%;
+    font-size: 50px;
+}
+
+h2
+{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: 50px;
+    padding-top: 50px;
+    font-size: 60px;
+}
+
+.withimg
+{
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+}
+
+.secondpara
+{
+    font-size: 25px;
+    padding-top: 20px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.hand
+{
+    padding: 5px;
+    margin-right: 20px;
+    padding-top: 10px;
+    margin-left: 20px;
+}
+
+/* Third Page*/
+
+.Discord
+{
+    background-color: rgb(184, 224, 248);
+    height: 100vh;
+    width: 100%;
+    font-size: 50px;
+    display: flex;
+    flex-direction: column;
+}
+
+.withdiscord
+{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.thirdpara
+{
+
+    font-size: 25px;
+    padding-top: 20px;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+
+/* Four Page */
+
+.Contact
+{
+    background-color: rgb(199, 228, 237);
+    height: 70vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.form 
+{
+    height: 500px;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 75px;
+}
+
+#cl 
+{
+    margin-bottom: 50px;
+    padding-bottom: 50px;
+}
+
+.subb
+{
+    height: 25px;
+    width: 100%;
+    background-color: rgb(17, 179, 212);
+    color: aliceblue;
+    border: none;
+    margin-top: 15px;
+    cursor: pointer;
+    font-size: 25px;
+    margin-bottom: 25px;
+    padding-bottom: 10px;
+    
+}
+
+.iemail
+{
+    width: 383px;
+    height: 25px;
+    margin-bottom:10px ;
+    padding-left: 5px;
+}
+
+
+.foot
+{
+    height: 30vh;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    background: aqua;
+}
+
+.footlogo
+{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.fp 
+{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-top: 10px;
+    
+}
