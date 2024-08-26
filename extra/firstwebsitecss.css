@@ -1,0 +1,201 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.wrapper{
+background-color: aquamarine;
+height: 10vh;
+
+}
+nav
+{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    padding-top: 20px;
+}
+.wrapper a{
+    float: right;
+    padding: 4px;
+}
+.links
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
+    text-decoration: underline;
+
+}
+a{
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+    margin-left: 10px;
+}
+.logo
+{
+    margin-left: 20px;
+}
+body{
+    background-color: rgb(202, 159, 174);
+    width: 100%;
+}
+.wrapper1{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    margin-top: 60px;
+    padding-left: 5px;
+    font-size: 35px;
+}
+.para1{
+    margin-top: 10px;
+    font-size: 30px;
+}
+
+.startnow{
+    margin-top: 30px;
+    border: none;
+    background-color: rgb(17, 179, 212);
+    padding: 10px 25px 10px 25px;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+
+/* second page */
+
+.about{
+    background-color: rgb(210, 209, 171);
+    height: 800px;
+    width: 100%;
+    font-size: 50px;
+}    
+h2{
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+    padding-top: 50px;
+}
+.para2{
+    font-size: 25px;
+    padding-top: 20px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.wrapperabout
+{
+    display: flex;
+}
+.aboutimage{
+    padding: 5px;
+    margin-right: 20px;
+    padding-top: 10px;
+    margin-left: 20px;
+}
+
+
+/* third page */
+
+
+.discord{
+    background-color: rgb(160, 180, 213);
+    height: 800px;
+}
+.wrapperdiscord{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+h3{
+    font-size: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+}
+
+.contact{
+    background-color: rgb(218, 199, 237);
+    height: 800px;
+}
+h4{
+    font-size: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 100px;
+}
+.para3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    padding-bottom: 20px;
+    margin-right: 20px;
+
+}
+.contact{
+    height: 600px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.form{
+    height: 500px;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(212, 185, 238);
+}
+.sub{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+#btnsub{
+    height: 25px;
+    width: 100%;
+    background-color: rgb(17, 179, 212);
+    color: aliceblue;
+    border: none;
+    margin-top: 15px;
+    cursor: pointer;
+}
+.inp-emal{
+    width: 383px;
+    height: 25px;
+    margin-bottom:10px ;
+    padding-left: 5px;
+}
+.last{
+    background-color: rgb(103, 249, 249);
+    text-align: center;
+    height: 200px;
+    width: 100%;
+}
+.linkss{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: underline;
+    margin-bottom: 10px;
+}
+.lastimage{
+    padding-top: 20px;
+}
+.para5{
+    margin-top: 20px;
+}

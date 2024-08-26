@@ -33,6 +33,7 @@
     align-items: center;
     margin-right: 20px;
     color: black;
+    font-size: 20px;
 }
 
 body {
@@ -154,7 +155,7 @@ h2 {
 
 #cl {
     margin-bottom: 50px;
-    padding-bottom: 50px;
+    padding-bottom: 30px;
 }
 
 .subb {
@@ -167,7 +168,7 @@ h2 {
     cursor: pointer;
     font-size: 25px;
     margin-bottom: 25px;
-    padding-bottom: 10px;
+    padding-bottom: 34px;
 }
 
 .iemail {
